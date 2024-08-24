@@ -1,10 +1,10 @@
 {
-    "name": "vendor/hello-world-advanced",
+    "name": "leang/hello-world-advanced",
     "description": "An advanced 'Hello World' library for demonstration purposes",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "MyLibrary\\": "src/"
+            "Leang\\MyLibrary\\": "src/"
         }
     },
     "require": {
