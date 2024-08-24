@@ -1,6 +1,6 @@
 <?php
 
-namespace MyLibrary;
+namespace Leang\MyLibrary;
 
 class MyLibrary
 {
