@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Vendor\\MyLibrary\\": "src/"
+            "MyLibrary\\": "src/"
         }
     },
     "require": {
@@ -17,7 +17,7 @@
     "authors": [
         {
             "name": "LEANG dev",
-            "email": "hoysengleang617@gamil.com"
+            "email": "hoysengleang617@gmail.com"
         }
     ],
     "minimum-stability": "stable",
