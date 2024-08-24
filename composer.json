@@ -1,0 +1,25 @@
+{
+    "name": "vendor/hello-world-advanced",
+    "description": "An advanced 'Hello World' library for demonstration purposes",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\MyLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LEANG dev",
+            "email": "hoysengleang617@gamil.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
